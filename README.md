@@ -11,5 +11,16 @@
     <li><h2>The player will see how many questions they have answered correctly, incorrectly and question they did not answer.</h2></li>
     <img src="assets/images/wanted-results.jpg" width="600px" height="350px"> 
 </ul>
+
+<h2>External Resources Used</h2>
+<ul>
+<li><h4>Google Fonts</h4></li>
+<li><h4>Bootstrap</h4></li>
+<li><h4>JQuery</h4></li>
+</ul>
+
   
+ <h2>Author</h2>
+ <h3>CJ Summers - HTML/CSS/JavaScript</h3>
+
  

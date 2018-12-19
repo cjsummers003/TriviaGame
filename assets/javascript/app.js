@@ -1,8 +1,5 @@
 var panel = $('#quiz-area');
 
-
-
-
 //button to start and submit
 $(document).on('click', '#start', function () {
   var snd = new Audio("assets/sounds/good-bad-ugly-theme.mp3");

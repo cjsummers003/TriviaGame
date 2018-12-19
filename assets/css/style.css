@@ -1,0 +1,78 @@
+body{
+  font-family: 'IM Fell English', serif;
+  color: white;
+	background-image: url("../images/background3.jpg");
+  text-align: center;
+}
+
+html, body{
+  height:100%;
+}
+
+#container{
+  font-family: 'IM Fell English', serif;
+  color: white;
+  font-size: 48px;
+  padding: 10% 0;
+  background-color:transparent;
+  width:960px;
+  margin:10% auto;
+  box-sizing: border-box;
+  min-height: 80%;
+}
+
+.container2{
+  position: relative;
+  top:20%;
+}
+
+button{
+  display:block;
+  width:400px;
+  height:100px;
+  margin: 10px auto 0 auto;
+  cursor: pointer;
+  background:transparent;
+  font-size: 42px;;
+}
+
+
+h1{
+  font-family: 'IM Fell English', serif;
+  font-size: 45px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color:white;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+#start, #sound1 {
+  margin-top: 0%;
+  font-size: 30px;
+  width: 100px;
+  height: 60px;
+  background: black;
+  border: solid  gold;
+}
+
+#quiz-area h2{
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+button {
+  background: black;
+  color: white;
+  width: 200px;
+  height: 60px;
+  border: solid gold;
+}

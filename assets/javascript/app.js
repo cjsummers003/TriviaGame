@@ -4,7 +4,7 @@ var panel = $('#quiz-area');
 $(document).on('click', '#start', function () {
   var snd = new Audio("assets/sounds/good-bad-ugly-theme.mp3");
   snd.play();
-  snd.currentTime = 0;
+  snd.currentTime = -1;
 
   game.start();
 });
